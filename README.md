@@ -23,4 +23,4 @@ A C# command line application that simulates a library.
 Written with Visual Studio Community 2019.
 
 ## Change Log
-- 07-04-2019 - 20:52PM: Initial Version
+- 07-04-2019 - 10:52PM: Initial Version
